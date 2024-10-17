@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
@@ -16,3 +15,6 @@ Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-mu
 =======
 # Cryptic_Wallet-App
 >>>>>>> 4dd0aeba72881e2236ffb43e434115021809639a
+=======
+# Cryptic_Wallet-Multiplatform-App
+>>>>>>> 7e404ddf83c13fd9e7af2b33bab31756b034d513
