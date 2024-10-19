@@ -3,7 +3,7 @@
 .gradle
 **/build/
 xcuserdata
-!composeApp/build/
+composeApp/build/
 local.properties
 .idea
 .DS_Store
